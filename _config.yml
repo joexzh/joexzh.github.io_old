@@ -27,7 +27,7 @@ highlighter: rouge
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+anchorjs: no                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
 
@@ -48,12 +48,12 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: joexzh
+#disqus_username: joexzh
 
 # Duoshuo settings
-duoshuo_username: 
+#duoshuo_username: 
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
