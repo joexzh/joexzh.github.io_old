@@ -1,9 +1,9 @@
 # Site settings
-title: joexzh Blog
-SEOTitle: joexzh的博客 | joexzh Blog
+title: Joe's Blog
+SEOTitle: joexzh的博客 | Joe's Blog
 header-img: img/home-bg.jpg
 email: xiezhenhao@gmail.com
-description: "关于架构设计, 性能优化 | joe's blog | c#"
+description: "关于架构设计, 性能优化 | Joe's blog | c#"
 keyword: "谢镇浩, joe, joetse, joexzh"
 url: "https://joexzh.github.io"         # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -63,8 +63,8 @@ disqus_username: xiezhenhao-github-com-blog
 # ba_track_id: [your track id]
 
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
+ga_track_id: 'UA-97489532-1'            # Format: UA-xxxxxx-xx
+ga_domain: joexzh.github.io
 
 
 
