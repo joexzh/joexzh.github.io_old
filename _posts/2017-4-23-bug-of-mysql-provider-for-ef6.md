@@ -120,6 +120,6 @@ modelBuilder.Entity<OnsiteCourse>()
 * 三层以上的关系, 使用 sql join 代替 include
 * 或者手动 lazy load (尽量少少少用)
 
-下次会尝试用新的 Mapping 方式测试.
+最后, 测试项目地址: [EFMySqlBugTest](https://github.com/joexzh/EFMySqlBugTest), 下次会尝试用新的 Mapping 方式测试.
 
     To be continued...
