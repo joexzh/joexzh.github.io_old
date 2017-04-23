@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2520pt" height="3546pt" viewBox="0 0 2520 3546" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1693pt" height="2420pt" viewBox="0 0 1693 2420" version="1.1">
 <defs>
 <g>
 <symbol overflow="visible" id="glyph0-0">
@@ -264,8 +264,8 @@
   <path d="M 555 415 C 555 409.476563 559.476563 405 565 405 L 753 405 C 758.523438 405 763 409.476563 763 415 L 763 696 C 763 701.523438 758.523438 706 753 706 L 565 706 C 559.476563 706 555 701.523438 555 696 Z M 555 415 "/>
 </clipPath>
 </defs>
-<g id="surface31318">
-<rect x="0" y="0" width="2520" height="3546" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<g id="surface38590">
+<rect x="0" y="0" width="1693" height="2420" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(20%,20%,20%);stroke-opacity:1;stroke-miterlimit:10;" d="M 843.5 1130.5 L 865.5 1130.5 "/>
 <path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(20%,20%,20%);stroke-opacity:1;stroke-miterlimit:10;" d="M 823.5 1130.5 L 843.5 1130.5 M 823.5 1125.5 L 835.5 1130.5 M 823.5 1135.5 L 835.5 1130.5 M 841 1130.5 L 841 1130.5 C 841 1135.832031 833 1135.832031 833 1130.5 C 833 1125.167969 841 1125.167969 841 1130.5 "/>
 <path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(20%,20%,20%);stroke-opacity:1;stroke-miterlimit:10;" d="M 865.5 1130.5 L 885.5 1130.5 M 878.5 1125.5 L 878.5 1135.5 M 872.5 1125.5 L 872.5 1135.5 "/>
