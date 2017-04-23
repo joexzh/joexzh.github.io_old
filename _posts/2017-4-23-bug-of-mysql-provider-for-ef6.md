@@ -72,7 +72,7 @@ var query = Context.Set<Order>().Where(o => o.Id == orderId)
 
 ## 把项目换成 .Net Core
 
-不是马上把线上的项目换掉, 先开个分支测试, 毕竟现在 MySql.Data.EntityFrameworkCore 还处于 pre-release 阶段: [MySQL \| Microsoft Docs](https://docs.microsoft.com/en-us/ef/core/providers/mysql/).
+不是马上把线上的项目换掉, 先开个分支测试, 毕竟现在 MySql.Data.EntityFrameworkCore 还处于 pre-release 阶段: [MySQL: Microsoft Docs](https://docs.microsoft.com/en-us/ef/core/providers/mysql/).
 
 经过一番折腾之后...
 
