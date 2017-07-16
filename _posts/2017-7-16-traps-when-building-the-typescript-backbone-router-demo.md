@@ -36,7 +36,7 @@ typescript 初始化顺序是这样的
 3. The derived class initialized properties are initialized
 4. The derived class constructor runs
 
-父类初始化的时候获取不到之类的 routes, 因此要 hack 进 backbone 的 `private code`, 如下面, 真是累觉不爱
+父类初始化的时候获取不到子类的 routes, 因此要 hack 进 backbone 的 `private code`, 如下面, 真是累觉不爱
 
 ```typescript
 export default class AppRouter extends Backbone.Router {
