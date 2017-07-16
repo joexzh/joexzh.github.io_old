@@ -5,7 +5,9 @@ subtitle:   "traps-when-building-the-typescript-backbone-router-demo"
 date:       2017-07-16 19:00:00
 author:     "Joe"
 tags:
-    - typescript webpack js
+    - typescript
+    - webpack
+    - js
 ---
 
 # 写 typescript-backbone-router-demo 时遇到的坑
