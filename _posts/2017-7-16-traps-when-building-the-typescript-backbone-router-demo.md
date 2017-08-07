@@ -22,8 +22,10 @@ tags:
 
 ```typescript
 import(controllerPath)  // 使用变量 webpack 无法识别模块的引用, 因此无法打包, 加载时就会报错
-import('./controller/' + controllerName + 'Controller') // 会把 ./controller 内所有模块打包并 code splitting
+import('controllers/' + controllerName + 'Controller') // 会把 ./controller 内所有模块打包并 code splitting
 ```
+
+3. `CommonChunkPlugin` 目前还无法对 dynamic import 和 正常 import 的模块共同进行 code split, 目前已经有人提交 PR, 相信很快就会修复. 参考 [https://github.com/webpack/webpack/issues/4392](https://github.com/webpack/webpack/issues/4392).
 
 ## 2. backbone 里面 this.routes 的坑
 
